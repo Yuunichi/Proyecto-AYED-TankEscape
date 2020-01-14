@@ -1,0 +1,36 @@
+Caso 1:
+Las coordenadas del muro N 1 son inválidas
+
+Caso 2:
+Porcentaje de muertes seguras: 35.714287%
+Camino desde [4][0]: DDXD
+Camino desde [4][1]: DXD
+Camino desde [4][2]: XD
+Camino desde [4][3]: 
+Camino desde [3][0]: WDDXD
+Camino desde [2][0]: WWDDXD
+Camino desde [0][0]: DDXDWWAAAWWDDD
+Camino desde [0][1]: DXDWWAAAWWDDD
+Camino desde [0][2]: XDWWAAAWWDDD
+
+
+Caso 3:
+Porcentaje de muertes seguras: 36.000000%
+Camino desde [5][0]: DDDDD
+Camino desde [5][1]: DDDD
+Camino desde [5][2]: DDD
+Camino desde [5][3]: DD
+Camino desde [5][4]: D
+Camino desde [5][5]: 
+Camino desde [4][0]: WDDDDD
+Camino desde [4][1]: WDDDD
+Camino desde [3][0]: WWDDDDD
+Camino desde [3][1]: WWDDDD
+Camino desde [3][2]: DDXAASAWWWDDDD
+Camino desde [3][3]: DXAASAWWWDDDD
+Camino desde [3][4]: XAASAWWWDDDD
+Camino desde [2][0]: WWWDDDDD
+Camino desde [2][1]: WWWDDDD
+Camino desde [2][2]: WDDXAASAWWWDDDD
+
+
